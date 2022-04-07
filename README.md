@@ -1,2 +1,3 @@
 # Zadania-zaliczeniowe
-Repozytorium ze skryptami testowymi
+Repozytorium ze skryptami testowymi z automatyzacji
+Selenium WebDriver + Cucumber
